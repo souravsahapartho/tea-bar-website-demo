@@ -4,7 +4,7 @@ A modern and responsive landing page for **Tea House**, designed using **HTML5**
 This project showcases a beautiful tea shop website with an elegant banner, featured products section, client testimonials, and a clean footer layout.  
 
 ## 🚀 Live Demo  
-You can view the live site here: [**Tea House Demo**](#) *(add your Netlify or GitHub Pages link here)*  
+You can view the live site here: [**Tea House Demo**](https://souravsahapartho.github.io/tea-bar-website-demo/) 
 
 ---
 
